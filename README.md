@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vishesh Bhardwaj</h1>
 <h3 align="center">AI & Full-Stack Developer | EEG Sentiment Research, Style Transfer, Pose-based Gaming, MERN Apps, and LLM-Powered Wellness Tools</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AI+ML+based+Application+Developer;;Full-Stack-Developer;;Sophomore+at+IIT+Roorkee)](https://git.io/typing-svg)
+
 
 - 📫 How to reach me **vishesh.bhardwaj.702@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGM408uDK8/Q_6dpZe9c9_FUVaZeNpGow/view?utm_content=DAGM408uDK8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58d506917c](https://www.canva.com/design/DAGM408uDK8/Q_6dpZe9c9_FUVaZeNpGow/view?utm_content=DAGM408uDK8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58d506917c)
+
+-📄 Know about my experiences [here](https://www.canva.com/design/DAGM408uDK8/Q_6dpZe9c9_FUVaZeNpGow/view?utm_content=DAGM408uDK8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58d506917c)  
+-🌐 Explore more on my [GitHub](https://github.com/MaSsKmAn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
